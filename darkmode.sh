@@ -189,7 +189,7 @@ echo -e "${GREEN}========== GenieACS UI akses port 3000. : http://$local_ip:3000
 echo -e "${GREEN}=================== Informasi: Whatsapp 081947215703 =======================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
 cp -r app-LU66VFYW.css /usr/lib/node_modules/genieacs/public/
-cp -r logo-3976e73d.svg /usr/lib/node_modules/genieacs/public/
+cp -r WhatsApp Image 2025-06-02 at 04.48.05.jpeg /usr/lib/node_modules/genieacs/public/
 echo -e "${GREEN}Sekarang install parameter. Apakah anda ingin melanjutkan? (y/n)${NC}"
 read confirmation
 
